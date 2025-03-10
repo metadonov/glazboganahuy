@@ -1,0 +1,80 @@
+Uri: https://gglaz.ru/
+File Name: C:\Downloaded Web Sites\gglaz.ru\index.htm
+Content Type: text/html
+
+Uri: https://gglaz.ru/css/jquery-ui.min.css
+File Name: C:\Downloaded Web Sites\gglaz.ru\css\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://gglaz.ru/css/libs.min.css
+File Name: C:\Downloaded Web Sites\gglaz.ru\css\libs.min.css
+Content Type: text/css
+
+Uri: https://gglaz.ru/css/style.min.css
+File Name: C:\Downloaded Web Sites\gglaz.ru\css\style.min.css
+Content Type: text/css
+
+Uri: https://gglaz.ru/favicon.png
+File Name: C:\Downloaded Web Sites\gglaz.ru\favicon.png
+Content Type: image/png
+
+Uri: https://gglaz.ru/fonts/Inter-Bold.ttf
+File Name: C:\Downloaded Web Sites\gglaz.ru\fonts\Inter-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://gglaz.ru/fonts/Inter-Regular.ttf
+File Name: C:\Downloaded Web Sites\gglaz.ru\fonts\Inter-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://gglaz.ru/fonts/Mulish-Bold.ttf
+File Name: C:\Downloaded Web Sites\gglaz.ru\fonts\Mulish-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://gglaz.ru/fonts/Mulish-BoldItalic.ttf
+File Name: C:\Downloaded Web Sites\gglaz.ru\fonts\Mulish-BoldItalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://gglaz.ru/fonts/Mulish-ExtraBold.ttf
+File Name: C:\Downloaded Web Sites\gglaz.ru\fonts\Mulish-ExtraBold.ttf
+Content Type: application/octet-stream
+
+Uri: https://gglaz.ru/fonts/Mulish-ExtraBoldItalic.ttf
+File Name: C:\Downloaded Web Sites\gglaz.ru\fonts\Mulish-ExtraBoldItalic.ttf
+Content Type: application/octet-stream
+
+Uri: https://gglaz.ru/fonts/Mulish-Regular.ttf
+File Name: C:\Downloaded Web Sites\gglaz.ru\fonts\Mulish-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://gglaz.ru/images/bg.svg
+File Name: C:\Downloaded Web Sites\gglaz.ru\images\bg.svg
+Content Type: image/svg+xml
+
+Uri: https://gglaz.ru/images/icon-plus.svg
+File Name: C:\Downloaded Web Sites\gglaz.ru\images\icon-plus.svg
+Content Type: image/svg+xml
+
+Uri: https://gglaz.ru/images/logo.svg
+File Name: C:\Downloaded Web Sites\gglaz.ru\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://gglaz.ru/js/effects.js
+File Name: C:\Downloaded Web Sites\gglaz.ru\js\effects.js
+Content Type: application/javascript
+
+Uri: https://gglaz.ru/js/libs.min.js
+File Name: C:\Downloaded Web Sites\gglaz.ru\js\libs.min.js
+Content Type: application/javascript
+
+Uri: https://gglaz.ru/js/script.js
+File Name: C:\Downloaded Web Sites\gglaz.ru\js\script.js
+Content Type: application/javascript
+
+Uri: https://mc.yandex.ru/watch/97020472
+File Name: C:\Downloaded Web Sites\gglaz.ru\watch\97020472
+Content Type: image/gif
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-DQZ58P3SYD
+File Name: C:\Downloaded Web Sites\gglaz.ru\gtag\js
+Content Type: application/javascript
+
